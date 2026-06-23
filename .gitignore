@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.xlsx
+*.csv
+pdfs/
+poppler-25.12.0/
+.poppler_path
+*.txt
